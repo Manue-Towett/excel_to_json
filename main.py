@@ -77,7 +77,7 @@ class ExcelToJson:
              - cuisine_type: cuisine type of the menu item
              - data_dict: dictionary to be used in generating menu item
         """
-        menu = {"CuisinType": cuisine_type,
+        menu = {"CuisineType": cuisine_type,
                 "MenuItem": data_dict["Menu Item"],
                 "KeyIngredients": [],
                 "Nutrients": [],
