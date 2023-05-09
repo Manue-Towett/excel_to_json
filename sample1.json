@@ -1,0 +1,4593 @@
+[
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Shrimp Tacos",
+        "KeyIngredients": [
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Tacos (chicken, beef)",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Enchiladas (chicken, beef)",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Burritos",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Chilaquiles",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Tamales",
+        "KeyIngredients": [
+            "Masa Harina (Corn)"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Quesadillas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Sopes",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Tortas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Chile Relleno",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Tostadas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Fajitas (chicken, beef, shrimp)",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef",
+            "Shrimp",
+            "Peppers",
+            "Onions"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Huaraches",
+        "KeyIngredients": [
+            "Pinto Beans",
+            "Corn"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Pozole",
+        "KeyIngredients": [
+            "Hominy"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Nachos",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Carne Asada",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Elote",
+        "KeyIngredients": [
+            "Corn"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Flautas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Chiles en Nogada",
+        "KeyIngredients": [
+            "Walnut (sauce)",
+            "Poblano Pepper"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Chile con Queso",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Molletes",
+        "KeyIngredients": [
+            "Pinto Beans",
+            "Salsa",
+            "Cheese"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Pambazos",
+        "KeyIngredients": [
+            "Chorizo",
+            "Potato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Pupusas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Salsa",
+        "KeyIngredients": [
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Ceviche",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Mexican",
+        "MenuItem": "Chalupas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Egg Rolls",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Chow Mein",
+        "KeyIngredients": [
+            "Chicken",
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Lo Mein",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Sweet and Sour Chicken",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Orange Chicken",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "General Tso's Chicken",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Egg Drop Soup",
+        "KeyIngredients": [
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Wonton Soup (with pork wonton)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Hot and Sour Soup",
+        "KeyIngredients": [
+            "Mushroom",
+            "Tofu",
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Kung Pao Chicken",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Beef and Broccoli Dumplings",
+        "KeyIngredients": [
+            "Beef",
+            "Broccoli"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Spring Rolls (with shrimp)",
+        "KeyIngredients": [
+            "Shrimp",
+            "Carrots"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Moo Shu Pork",
+        "KeyIngredients": [
+            "Pork",
+            "Cabbage"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Mongolian Beef",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Crab Rangoon",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Potstickers (pork)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Crab Fried Rice",
+        "KeyIngredients": [
+            "Crab"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Beef Chow Fun",
+        "KeyIngredients": [
+            "Beef",
+            "Mung Beans"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Peking Duck",
+        "KeyIngredients": [
+            "Duck"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Fried Shrimp",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Chicken Fried Rice",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Sticky Rice",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Salt and Pepper Shrimp",
+        "KeyIngredients": [
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Chinese",
+        "MenuItem": "Brown Rice",
+        "KeyIngredients": [],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Moussaka",
+        "KeyIngredients": [
+            "Eggplant",
+            "Potatoes",
+            "Lamb"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Greek Salad",
+        "KeyIngredients": [
+            "Tomatoes",
+            "Olives"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Spanakopita",
+        "KeyIngredients": [
+            "Spinach"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Gyros",
+        "KeyIngredients": [
+            "Lamb",
+            "Chicken",
+            "Pork",
+            ""
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Souvlaki",
+        "KeyIngredients": [
+            "Chicken",
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Horta",
+        "KeyIngredients": [
+            "Swiss Chard"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Avgolemono Soup",
+        "KeyIngredients": [
+            "Egg",
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Tzatziki",
+        "KeyIngredients": [
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Dolmades",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Fasolakia",
+        "KeyIngredients": [
+            "Potatoes",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Pastitsio",
+        "KeyIngredients": [
+            "Beef or Lamb"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Keftedes",
+        "KeyIngredients": [
+            "Beef",
+            "Pork",
+            "or Lamb"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Gemista",
+        "KeyIngredients": [
+            "Beef",
+            "Tomato",
+            "Bell Pepper"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Soutzoukakia",
+        "KeyIngredients": [
+            "Beef",
+            "Tomato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Loukoumades",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Calamari",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Kleftiko",
+        "KeyIngredients": [
+            "Lamb",
+            "Potatoes",
+            "Bell Pepper"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Greek-Style Roasted Potatoes",
+        "KeyIngredients": [
+            "Potatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Fasolia",
+        "KeyIngredients": [
+            "White Beans",
+            "Lamb",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Melitzanosalata",
+        "KeyIngredients": [
+            "Eggplant"
+        ],
+        "Nutrients": [
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Kourabiedes",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Horiatiki",
+        "KeyIngredients": [
+            "Tomatoes",
+            "Olives"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Grilled Octopus",
+        "KeyIngredients": [
+            "Octopus"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Grilled Halloumi Cheese",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Greek-Style Stuffed Eggplant",
+        "KeyIngredients": [
+            "Eggplant"
+        ],
+        "Nutrients": [
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Octopus Salad",
+        "KeyIngredients": [
+            "Octopus"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Papoutsakia",
+        "KeyIngredients": [
+            "Eggplant",
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Dakos",
+        "KeyIngredients": [
+            "Tomatoes",
+            "Oregano"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Kataifi",
+        "KeyIngredients": [
+            "(pastry with walnuts in syrup)"
+        ],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Greek-Style Rice Pilaf",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Galaktoboureko",
+        "KeyIngredients": [
+            "(custard)"
+        ],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Tirokroketes",
+        "KeyIngredients": [
+            "(fried cheese balls)"
+        ],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Saganaki",
+        "KeyIngredients": [
+            "(fried cheese)"
+        ],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Greek",
+        "MenuItem": "Taramosalato",
+        "KeyIngredients": [
+            "Fish Roe"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Pho",
+        "KeyIngredients": [
+            "Beef",
+            "Mung Beans",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Bo Hue",
+        "KeyIngredients": [
+            "Beef",
+            "Pork",
+            "Spices"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Xeo",
+        "KeyIngredients": [
+            "Pork",
+            "Mustard Greens"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Cha",
+        "KeyIngredients": [
+            "Pork",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Goi Cuon (Vietnamese Spring Roll)",
+        "KeyIngredients": [
+            "Pork",
+            "Shrimp",
+            "Peanut Butter",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Com Tam (Broken Rice)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Mi",
+        "KeyIngredients": [
+            "Pork",
+            "Chicken Liver",
+            "Carrots",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Cuon (Vietnamese Rice Roll)",
+        "KeyIngredients": [
+            "Pork",
+            "Mushrooms",
+            "Mung Bean"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Chao (Chicken Porridge)",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Nem Nuong (Grilled Pork Sausage)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bo Tai Chanh (Rare Beef in Lime)",
+        "KeyIngredients": [
+            "Beef",
+            "Carrot",
+            "Lime"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Thit Nuong (Grilled Pork Noodle Salad)",
+        "KeyIngredients": [
+            "Pork",
+            "Bibb Lettuce"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Canh Chua (Sweet and Sour Soup)",
+        "KeyIngredients": [
+            "Okra",
+            "Bean Sprouts"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Tom (Shrimp and Sweet Potato Fritters)",
+        "KeyIngredients": [
+            "Shrimp",
+            "Sweet Potato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Omega 3",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Nem Ran (Fried Spring Rolls)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Goi Bo (Spicy Beef Salad)",
+        "KeyIngredients": [
+            "Beef",
+            "Spices",
+            "Mung Bean Sprouts"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Mi Xao (Crispy Pan Fried Noodles)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Cha Gio (Fried Spring Rolls)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Rieu (Crab, Pork and Tomato Noodle Soup)",
+        "KeyIngredients": [
+            "Crab",
+            "Pork",
+            "Tomato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Thit Heo Quay (Roasted Pork Belly)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Goi Ga (Chicken and Cabbage Salad)",
+        "KeyIngredients": [
+            "Chicken",
+            "Cabbage"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Trang Tron (Rice Paper Salad)",
+        "KeyIngredients": [
+            "Beef",
+            "Egg",
+            "Peanuts",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Hoi (Rice Vermicelli)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Canh Ga Tau (Chicken Wings)",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Ga Nuong (5 Spice Chicken)",
+        "KeyIngredients": [
+            "Chicken",
+            "Spices"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Thit Bo Xao (Stir Fried Beef and Green Beans)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Canh (Thick Tapioca Noodle Soup)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bo La Lot (Beef in Betel Leaves)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Mang Vit (Duck Noodle Soup)",
+        "KeyIngredients": [
+            "Duck"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Bo Nam Bo (Beef Noodle Salad)",
+        "KeyIngredients": [
+            "Beef",
+            "Mung Beans",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Bo Xao (Lemongrass Beef and Noodle Salad)",
+        "KeyIngredients": [
+            "Beef",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Ca Kho To (Braised Fish)",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Suon Nuong (Grilled Lemongrass Pork Chops)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Xoi Gac (Red Sticky Rice)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Bao (Steamed Pork Buns)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Suon Ram Man (Caramelized Pork Spare Ribs)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Goi Ngo Sen (Lotus Stem Salad with Prawns)",
+        "KeyIngredients": [
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bo Ne (Steak and Eggs)",
+        "KeyIngredients": [
+            "Beef",
+            "Eggs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Muc Nuong (Grilled Squid)",
+        "KeyIngredients": [
+            "Octopus"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Hoi Thap Cam",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Dau Phu (Lemongrass Tofu and Rice Noodles)",
+        "KeyIngredients": [
+            "Tofu"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Dau Mam Tom (Noodle and Tofu with Shrimp Sauce)",
+        "KeyIngredients": [
+            "Tofu",
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Chao Ga (Chicken Porridge)",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Thit Bo Kho (Beef Stew)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Chao Tom (Sugar Cane Fried Shrimp)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Ga Nuong Xa (Grilled Chicken with Lemongrass)",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Ca Ri Ga (Chicken Curry)",
+        "KeyIngredients": [
+            "Chicken",
+            "Spices"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Goi Du Du (Green Papaya Salad)",
+        "KeyIngredients": [
+            "Papaya"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Bao Vac (White Rose Dumpling)",
+        "KeyIngredients": [
+            "Pork",
+            "Mushrooms"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Cuon Thit Heo (Rice Paper Rolls with Pork)",
+        "KeyIngredients": [
+            "Pork",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Cha Ca La Vong (Turmeric Fish with Noodles)",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Com Chien (Fried Rice)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Xa Xiu (5 Spice BBQ Pork)",
+        "KeyIngredients": [
+            "Pork",
+            "Spices"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Bot Loc (Steamed Dumpling)",
+        "KeyIngredients": [
+            "Shrimp",
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Banh Mi Op La (Fried Egg Bahn Mi)",
+        "KeyIngredients": [
+            "Egg",
+            "Pork Liver"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Bun Bo Hue Nam Bo (Beef Noodle Soup)",
+        "KeyIngredients": [
+            "Beef",
+            "Spices"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Vietnamese",
+        "MenuItem": "Brown Rice",
+        "KeyIngredients": [],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Ropa Vieja",
+        "KeyIngredients": [
+            "Beef",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Cuban Sandwich",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Lechon Asado (Roast Pork)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Arroz con Pollo",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Yuca Frita",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Maduros",
+        "KeyIngredients": [
+            "Plantains"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Moros y Cristianos",
+        "KeyIngredients": [
+            "Black Beans"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Croquetas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Picadillo",
+        "KeyIngredients": [
+            "Beef",
+            "Tomatoes",
+            "Olives"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Bistec de Palomilla (Steak and Onions)",
+        "KeyIngredients": [
+            "Beef",
+            "Onions"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Ropa Vieja Empanadas",
+        "KeyIngredients": [
+            "Beef",
+            "Tomatoes",
+            "Olives"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Pan con Bistec",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Tostones",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Tamales",
+        "KeyIngredients": [
+            "Corn"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Churrasco (Grilled Beef)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Arroz Imperial",
+        "KeyIngredients": [
+            "Chicken",
+            "Red Peppers"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Congri (Black Beans and Rice)",
+        "KeyIngredients": [
+            "Black Beans"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Croquettes de Jamon",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Chorizo con Papas",
+        "KeyIngredients": [
+            "Pork",
+            "Potatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Enchilado de Camarones",
+        "KeyIngredients": [
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Churrasco con Tostones",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Empanadas de Carne",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Pescado Frito",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Chicharrones",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Boliche (Stuffed Roast Beef)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Pernil (Puerto Rican Pork Shoulder)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Ropa Vieja con Tostones",
+        "KeyIngredients": [
+            "Beef",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Rabo Encendido (Oxtail Stew)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Calamares Fritos",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Croquettes de Pollo",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Croquettes de Jamon y Queso",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Pastelitos de Guayaba (Guava and Cheese Pastry)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Empanadas de Queso",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Tostones Rellenos",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Arroz con Pollo y Moros (Chicken and Rice)",
+        "KeyIngredients": [
+            "Chicken "
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Costillas de Cerdo (Pork Ribs)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Platanos Maduros",
+        "KeyIngredients": [
+            "Plantains"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Vaca Frita (Crispy Shredded Beef)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Croquettes de Jamon y Pollo",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Tamal en Cazuela (Tamal Casserole)",
+        "KeyIngredients": [
+            "Pork",
+            "Corn"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Ensalada de Frijoles Negros",
+        "KeyIngredients": [
+            "Black Beans"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Croquettes de Queso",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Enchilado de Pescado",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Rabo Encendido con Tostones",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Chicharrones con Tostones",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Empanadas de Jamon y Queso",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Pescado al Horno",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Cuban",
+        "MenuItem": "Croquetas de Jamon y Queso",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Steak au poivre",
+        "KeyIngredients": [
+            "Beef",
+            "Pepper"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Ratatouille",
+        "KeyIngredients": [
+            "Eggplant",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Bouillabaisse",
+        "KeyIngredients": [
+            "Fish",
+            "Mussels",
+            "Clams"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Quiche Lorraine",
+        "KeyIngredients": [
+            "Eggs"
+        ],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Boeuf Bourguignon",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Coq au vin",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Escargot",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Croque Monsieur",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "B\u0153uf en croute",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Choucroute garnie",
+        "KeyIngredients": [
+            "Sauerkraut",
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Pot-au-feu",
+        "KeyIngredients": [
+            "Beef",
+            "Potatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Cassoulet",
+        "KeyIngredients": [
+            "White Beans",
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Duck confit",
+        "KeyIngredients": [
+            "Duck"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Moules-frites",
+        "KeyIngredients": [
+            "Mussels"
+        ],
+        "Nutrients": [
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Salade Ni\u00e7oise",
+        "KeyIngredients": [
+            "Tuna",
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Tartiflette",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Soupe \u00e0 l'oignon",
+        "KeyIngredients": [
+            "Onion"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Poulet Basquaise",
+        "KeyIngredients": [
+            "Chicken",
+            "Tomato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Rillettes",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Fondue Savoyarde",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Steak tartare",
+        "KeyIngredients": [
+            "Beef",
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Poulet \u00e0 la cr\u00e8me",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Blanquette de veau (Veal Stew)",
+        "KeyIngredients": [
+            "Veal"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Gratin Dauphinois",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Confit de canard",
+        "KeyIngredients": [
+            "Duck"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Crevettes Proven\u00e7ale",
+        "KeyIngredients": [
+            "Shrimp",
+            "Tomato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Coquilles Saint-Jacques",
+        "KeyIngredients": [
+            "Scallop"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "C\u00f4te de boeuf",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Omelette aux fines herbes",
+        "KeyIngredients": [
+            "Eggs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Pain Perdu",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "P\u00e2t\u00e9 en Cro\u00fbte",
+        "KeyIngredients": [
+            "Liver"
+        ],
+        "Nutrients": [
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Soupe de poissons (Fish Soup)",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Poulet au vin blanc",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Poulet frites",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Salade lyonnaise",
+        "KeyIngredients": [
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Choucroute crue",
+        "KeyIngredients": [
+            "Sauerkraut",
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Foie gras",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Calamars frits",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Soupe \u00e0 l'ail (Garlic Soup)",
+        "KeyIngredients": [
+            "Garlic",
+            "Spices"
+        ],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Poulet cordon bleu",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "P\u00e2tes \u00e0 la carbonara",
+        "KeyIngredients": [
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "French",
+        "MenuItem": "Steak frites",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Pizza",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Pasta",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Lasagna",
+        "KeyIngredients": [
+            "Ricotta",
+            "Tomato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Calzone",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Ravioli",
+        "KeyIngredients": [
+            "Ricotta"
+        ],
+        "Nutrients": [
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Bruschetta",
+        "KeyIngredients": [
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Fettuccine Alfredo",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Gnocchi",
+        "KeyIngredients": [
+            "Potato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Antipasto",
+        "KeyIngredients": [
+            "Bibb Lettuce",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Caprese Salad",
+        "KeyIngredients": [
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Stuffed Shells",
+        "KeyIngredients": [
+            "Ricotta",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Eggplant Parmesan",
+        "KeyIngredients": [
+            "Eggplant",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Bolognese",
+        "KeyIngredients": [
+            "Beef",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Risotto",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Osso Buco",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Polenta",
+        "KeyIngredients": [
+            "Corn"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Veal Marsala",
+        "KeyIngredients": [
+            "Veal",
+            "Mushrooms"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Pesto",
+        "KeyIngredients": [
+            "Basil",
+            "Pine Nuts"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Arancini",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Italian Sausage",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Carbonara",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Panini",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Italian",
+        "MenuItem": "Cacio e Pepe",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Crispy Pork Belly",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Pad Thai (chicken, shrimp)",
+        "KeyIngredients": [
+            "Chicken",
+            "Shrimp",
+            "Mung Bean Sprouts"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Tom Yum Soup (chicken, shrimp)",
+        "KeyIngredients": [
+            "Chicken",
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline",
+            "Polyphenols",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Green Curry Chicken / Shrimp",
+        "KeyIngredients": [
+            "Chicken",
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Red Curry Chicken / Shrimp",
+        "KeyIngredients": [
+            "Chicken",
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Papaya Salad",
+        "KeyIngredients": [
+            "Papaya",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Massaman Curry (chicken, beef, shrimp)",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef",
+            "Shrimp",
+            "Peanut Butter"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Mango Sticky Rice",
+        "KeyIngredients": [
+            "Mango"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Thai Fried Rice",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Thai Basil Chicken",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Chicken Satay",
+        "KeyIngredients": [
+            "Chicken",
+            "Peanuts "
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Thai Beef Salad",
+        "KeyIngredients": [
+            "Beef",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Drunken Noodles",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Thai-Style Grilled Chicken",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Tom Kha Gai (chicken)",
+        "KeyIngredients": [
+            "Chicken",
+            "Mushrooms"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Laab (Larb) (chicken)",
+        "KeyIngredients": [
+            "Chicken",
+            " Mung Bean Sprouts"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Khao Soi (chicken)",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Crispy Spring Rolls",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Pad See Ew (chicken, beef)",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Som Tum (Papaya Salad)",
+        "KeyIngredients": [
+            "Papaya",
+            "Herbs"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Fried Tofu",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Panang Curry (chicken, beef)",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef",
+            "Peanut"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Higher in Saturated Fat"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Fish Cakes",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Khao Pad (Fried Rice)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Yum Woon Sen (shrimp, pork)",
+        "KeyIngredients": [
+            "Shrimp",
+            "Pork",
+            "Peanut"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Magnesium",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Thai",
+        "MenuItem": "Brown Rice",
+        "KeyIngredients": [],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Chicken Tikka Masala",
+        "KeyIngredients": [
+            "Chicken",
+            "Tomatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Naan",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Chana Masala",
+        "KeyIngredients": [
+            "Chickpeas"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Palak Paneer",
+        "KeyIngredients": [
+            "Spinach",
+            "Cheese"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Samosas",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Aloo Gobi",
+        "KeyIngredients": [
+            "Potatoes",
+            "Cauliflower"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Lamb Vindaloo",
+        "KeyIngredients": [
+            "Lamb"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Saag Paneer",
+        "KeyIngredients": [
+            "Spinach",
+            "Cheese"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Tandoori Chicken",
+        "KeyIngredients": [
+            "Chicken",
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Keema Naan",
+        "KeyIngredients": [
+            "Lamb",
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Bhindi Masala",
+        "KeyIngredients": [
+            "Okra"
+        ],
+        "Nutrients": [
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Korma (chicken)",
+        "KeyIngredients": [
+            "Chicken",
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Biryani",
+        "KeyIngredients": [
+            "Chicken",
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Chole Bhature",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Paneer Tikka",
+        "KeyIngredients": [
+            "Cheese",
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Masala Dosa",
+        "KeyIngredients": [
+            "Lentil",
+            "Potatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Poori",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Paneer Curry",
+        "KeyIngredients": [
+            "Cheese"
+        ],
+        "Nutrients": [
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Gulab Jamun",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Dahi Puri",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Pani Puri",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Tikki Chaat",
+        "KeyIngredients": [
+            "Potatoes",
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Pani Poori",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Indian",
+        "MenuItem": "Vegetable Biryani",
+        "KeyIngredients": [
+            "Yogurt"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Sushi",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Sashimi",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Ramen",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Udon",
+        "KeyIngredients": [
+            "Buckwheat"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Tempura",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Teriyaki (beef, chicken)",
+        "KeyIngredients": [
+            "Beef",
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Yakitori (chicken)",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Soba",
+        "KeyIngredients": [
+            "Buckwheat"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Gyoza",
+        "KeyIngredients": [
+            "Chicken",
+            "Pork",
+            "Mushroom",
+            "Cabbage"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Tonkatsu",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Miso Soup",
+        "KeyIngredients": [
+            "Miso",
+            "Tofu"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Donburi (beef, chicken, fish)",
+        "KeyIngredients": [
+            "Beef",
+            "Chicken",
+            "Fish"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Takoyaki",
+        "KeyIngredients": [
+            "Octopus"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Yakisoba",
+        "KeyIngredients": [
+            "Buckwheat"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Karaage",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Curry Rice",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Okonomiyaki",
+        "KeyIngredients": [
+            "Cabbage",
+            "Eggs"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Gyudon (beef)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Katsu Curry",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Onigiri",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Nabemono (chicken, beef, fish, tofu)",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef",
+            "Fish",
+            "Tofu"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Magnesium",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Sunomono (cucumber salad)",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Chirashi (seafood)",
+        "KeyIngredients": [
+            "Fish"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Chankonabe",
+        "KeyIngredients": [
+            "Udon",
+            "Chicken",
+            "Tofu"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Unagi",
+        "KeyIngredients": [
+            "Eel"
+        ],
+        "Nutrients": [
+            "Omega 3"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Japanese",
+        "MenuItem": "Brown Rice",
+        "KeyIngredients": [],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Bibimbap (beef)",
+        "KeyIngredients": [
+            "Beef",
+            "Egg",
+            "Mung Bean Sprouts",
+            "Mushrooms"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Bulgogi",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Korean Barbecue (beef, chicken, pork)",
+        "KeyIngredients": [
+            "Beef",
+            "Chicken",
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Kimchi",
+        "KeyIngredients": [
+            "Cabbage"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Japchae",
+        "KeyIngredients": [
+            "Sweet Potato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Korean Fried Chicken",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Tteokbokki",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Haemul Pajeon (Seafood Scallion Pancake)",
+        "KeyIngredients": [
+            "Eggs",
+            "Fish"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Kalbi (beef)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Mandu\u00a0(steamed)",
+        "KeyIngredients": [
+            "Pork",
+            "Mung Bean Sprouts"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Yukgaejang (beef)",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Jjajangmyeon (black bean)",
+        "KeyIngredients": [
+            "Black Beans"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Samgyeopsal (pork)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Jjimdak (chicken)",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Kongguksu (soybean)",
+        "KeyIngredients": [
+            "Soybean"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Sundubu Jjigae (tofu stew)",
+        "KeyIngredients": [
+            "Tofu"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Gamjatang",
+        "KeyIngredients": [
+            "Pork",
+            "Potatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Soondubu Jjigae",
+        "KeyIngredients": [
+            "Tofu"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Doenjang Jjigae",
+        "KeyIngredients": [
+            "Soybean"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Gyeran Mari (eggs)",
+        "KeyIngredients": [
+            "Eggs"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Seafood Pancake",
+        "KeyIngredients": [
+            "Seafood"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Tofu Soup",
+        "KeyIngredients": [
+            "Tofu"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Bossam (pork)",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Mul Naengmyeon\u00a0",
+        "KeyIngredients": [
+            "Buckwheat"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Gnocchi Japchae",
+        "KeyIngredients": [
+            "Sweet Potato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "Korean",
+        "MenuItem": "Brown Rice",
+        "KeyIngredients": [],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Hamburgers",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Hot Dogs",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Pizza",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "BBQ Ribs",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "French Fries",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Chicken Wings",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Steak",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Tacos",
+        "KeyIngredients": [
+            "Shrimp",
+            "Beef",
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Grilled Cheese",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Macaroni and Cheese",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Chili",
+        "KeyIngredients": [
+            "Beef",
+            "Kidney Beans",
+            "Spices"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Fried Chicken",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Buffalo Wings",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Meatloaf",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Mashed Potatoes",
+        "KeyIngredients": [
+            "Potatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Fried Shrimp",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "BLT Sandwich",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Reuben Sandwich",
+        "KeyIngredients": [
+            "Beef",
+            "Cabbage (Sauerkraut)"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Vitamin B12",
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Chicken Tenders",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "BLT Salad",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Cobb Salad (no dressing)",
+        "KeyIngredients": [
+            "Chicken",
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Caesar Salad",
+        "KeyIngredients": [
+            "Parmesan",
+            "Egg"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Potato Skins",
+        "KeyIngredients": [
+            "Potatoes"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "American",
+        "MenuItem": "Onion Rings",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Ribs",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Chicken",
+        "KeyIngredients": [
+            "Chicken"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Pulled Pork",
+        "KeyIngredients": [
+            "Pork"
+        ],
+        "Nutrients": [
+            "Vitamin B12"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Brisket",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Smoked Sausage",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Cornbread",
+        "KeyIngredients": [
+            "Corn"
+        ],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Potato Salad",
+        "KeyIngredients": [
+            "Potato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Coleslaw",
+        "KeyIngredients": [
+            "Cabbage"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Macaroni and Cheese",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Fried Okra",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Nachos",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Baked Beans",
+        "KeyIngredients": [],
+        "Nutrients": [
+            "Magnesium",
+            "Choline",
+            "Polyphenols",
+            "Soluble Fiber"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Wings",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Pizza",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Sandwiches",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Tacos",
+        "KeyIngredients": [
+            "Chicken",
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Burritos",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Fries",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Boiled Peanuts",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Onion Rings",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Cucumber Salad",
+        "KeyIngredients": [],
+        "Nutrients": [],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Burgers",
+        "KeyIngredients": [
+            "Beef"
+        ],
+        "Nutrients": [
+            "Vitamin B12",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Shrimp",
+        "KeyIngredients": [
+            "Shrimp"
+        ],
+        "Nutrients": [
+            "Omega 3",
+            "Choline"
+        ],
+        "ImageURL": ""
+    },
+    {
+        "CuisinType": "BBQ",
+        "MenuItem": "Barbecue Potato Skins",
+        "KeyIngredients": [
+            "Potato"
+        ],
+        "Nutrients": [
+            "Vitamin C",
+            "Magnesium"
+        ],
+        "ImageURL": ""
+    }
+]
