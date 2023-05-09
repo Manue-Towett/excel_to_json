@@ -12,7 +12,7 @@ class ExcelToJson:
             self.xls = pd.ExcelFile("./input/Restaurant Menu Nutrients.xlsx")
             self.sheet_names = self.xls.sheet_names
         except:
-            self.logger.error("Cannot locate file Restaurant Menu Nutrients.xlsx")
+            self.logger.error("Cannot locate file 'Restaurant Menu Nutrients.xlsx'")
 
         self.results = []
 
