@@ -1,3 +1,4 @@
+import sys
 import logging
 from typing import Optional
 
@@ -24,6 +25,9 @@ class Logger:
 
         s_handler.setLevel(logging.INFO)
         f_handler.setLevel(logging.INFO)
+
+        self.logger.addHandler(s_handler)
+        self.logger.addHandler(f_handler)
     
     def info(self, message: str) -> None:
         self.logger.info(message)
@@ -33,3 +37,4 @@ class Logger:
 
     def error(self, message: str) -> None:
         self.logger.error(message, exc_info=True)
+        sys.exit(1)

@@ -7,8 +7,12 @@ class ExcelToJson:
     def __init__(self) -> None:
         self.logger = Logger(self.__class__.__name__)
         self.logger.info("*****ExcelToJson converter started*****")
-        self.xls = pd.ExcelFile("./input/Restaurant Menu Nutrients.xlsx")
-        self.sheet_names = self.xls.sheet_names
+
+        try:
+            self.xls = pd.ExcelFile("./input/Restaurant Menu Nutrients.xlsx")
+            self.sheet_names = self.xls.sheet_names
+        except:
+            self.logger.error("Cannot locate file Restaurant Menu Nutrients.xlsx")
 
         self.results = []
 
@@ -87,16 +91,26 @@ class ExcelToJson:
     def run(self) -> None:
         """Entry point to the scraper"""
         for sheet_name in self.sheet_names:
+            self.logger.info(f"Converting sheet '{sheet_name}' to json...")
+
             df = self.__update_df_headers(self.xls.parse(sheet_name))
 
-            if df.empty:continue
+            if df.empty:
+                self.logger.warn(f"{sheet_name} sheet has no records...")
+                continue
 
             records = df.fillna(False).to_dict("records")
 
+            self.logger.info(f"Records found: {len(records)}")
+
             [self.__generate_item(sheet_name, data) for data in records]
         
-        with open("sample1.json", "w") as file:
+        self.logger.info("Done converting excel to json. Saving records...")
+
+        with open("./output/results.json", "w") as file:
             json.dump(self.results, file, indent=4)
+        
+        self.logger.info("Records saved.")
 
 if __name__ == "__main__":
     converter = ExcelToJson()
