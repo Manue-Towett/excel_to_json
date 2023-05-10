@@ -1,5 +1,7 @@
 import json
+import openpyxl
 import pandas as pd
+import numpy as np
 from logs import Logger
 
 class ExcelToJson:
@@ -11,6 +13,8 @@ class ExcelToJson:
         try:
             self.xls = pd.ExcelFile("./input/Restaurant Menu Nutrients.xlsx")
             self.sheet_names = self.xls.sheet_names
+
+            self.wb = openpyxl.load_workbook("./input/Restaurant Menu Nutrients.xlsx")
         except:
             self.logger.error("Cannot locate file 'Restaurant Menu Nutrients.xlsx'")
 
@@ -70,7 +74,8 @@ class ExcelToJson:
     
     def __generate_item(self,
                         cuisine_type: str,
-                        data_dict: dict[str, str]) -> None:
+                        data_dict: dict[str, str],
+                        recom: bool) -> None:
         """Generate a menu item to be inserted into json
            
            Args:
@@ -81,7 +86,8 @@ class ExcelToJson:
                 "MenuItem": data_dict["Menu Item"],
                 "KeyIngredients": [],
                 "Nutrients": [],
-                "ImageURL": ""}
+                "ImageURL": "",
+                "Recommended": recom}
         
         self.__update_ingredients(data_dict, menu)
         self.__update_nutrients(data_dict, menu)
@@ -99,11 +105,28 @@ class ExcelToJson:
                 self.logger.warn(f"{sheet_name} sheet has no records...")
                 continue
 
+            
+            sheet = self.wb[sheet_name]
+
+            bool_list = []
+
+            for i in range(3, sheet.max_row + 1):
+                if sheet.cell(row = i, column = 1).font.strike:
+                    bool_list.append(False)
+                else:
+                    bool_list.append(True)
+
+                # print(sheet.cell(row = i, column = 1).font.strike)
+                # print(sheet.cell(row = i, column = 1).value)
+
+                if not sheet.cell(row = i, column = 1).value:
+                    break
+
             records = df.fillna(False).to_dict("records")
 
             self.logger.info(f"Records found: {len(records)}")
 
-            [self.__generate_item(sheet_name, data) for data in records]
+            [self.__generate_item(sheet_name, data, recom) for data, recom in zip(records, bool_list)]
         
         self.logger.info("Done converting excel to json. Saving records...")
 

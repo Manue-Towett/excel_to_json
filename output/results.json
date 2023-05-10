@@ -1,6 +1,6 @@
 [
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Shrimp Tacos",
         "KeyIngredients": [
             "Shrimp"
@@ -9,10 +9,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Tacos (chicken, beef)",
         "KeyIngredients": [
             "Chicken",
@@ -22,10 +23,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Enchiladas (chicken, beef)",
         "KeyIngredients": [
             "Chicken",
@@ -36,10 +38,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Burritos",
         "KeyIngredients": [
             "Chicken",
@@ -49,17 +52,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Chilaquiles",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Tamales",
         "KeyIngredients": [
             "Masa Harina (Corn)"
@@ -69,45 +74,51 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Quesadillas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Sopes",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Tortas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Chile Relleno",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Tostadas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Fajitas (chicken, beef, shrimp)",
         "KeyIngredients": [
             "Chicken",
@@ -122,10 +133,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Huaraches",
         "KeyIngredients": [
             "Pinto Beans",
@@ -137,10 +149,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Pozole",
         "KeyIngredients": [
             "Hominy"
@@ -150,17 +163,19 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Nachos",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Carne Asada",
         "KeyIngredients": [
             "Beef"
@@ -169,10 +184,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Elote",
         "KeyIngredients": [
             "Corn"
@@ -183,17 +199,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Flautas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Chiles en Nogada",
         "KeyIngredients": [
             "Walnut (sauce)",
@@ -205,17 +223,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Chile con Queso",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Molletes",
         "KeyIngredients": [
             "Pinto Beans",
@@ -228,10 +248,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Pambazos",
         "KeyIngredients": [
             "Chorizo",
@@ -241,17 +262,19 @@
             "Vitamin C",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Pupusas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Salsa",
         "KeyIngredients": [
             "Tomatoes"
@@ -260,10 +283,11 @@
             "Vitamin C",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Ceviche",
         "KeyIngredients": [
             "Fish"
@@ -272,24 +296,27 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Mexican",
+        "CuisineType": "Mexican",
         "MenuItem": "Chalupas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Egg Rolls",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Chow Mein",
         "KeyIngredients": [
             "Chicken",
@@ -299,38 +326,43 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Lo Mein",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Sweet and Sour Chicken",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Orange Chicken",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "General Tso's Chicken",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Egg Drop Soup",
         "KeyIngredients": [
             "Egg"
@@ -339,10 +371,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Wonton Soup (with pork wonton)",
         "KeyIngredients": [
             "Pork"
@@ -350,10 +383,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Hot and Sour Soup",
         "KeyIngredients": [
             "Mushroom",
@@ -366,17 +400,19 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Kung Pao Chicken",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Beef and Broccoli Dumplings",
         "KeyIngredients": [
             "Beef",
@@ -389,10 +425,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Spring Rolls (with shrimp)",
         "KeyIngredients": [
             "Shrimp",
@@ -404,10 +441,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Moo Shu Pork",
         "KeyIngredients": [
             "Pork",
@@ -420,24 +458,27 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Mongolian Beef",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Crab Rangoon",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Potstickers (pork)",
         "KeyIngredients": [
             "Pork"
@@ -445,10 +486,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Crab Fried Rice",
         "KeyIngredients": [
             "Crab"
@@ -457,10 +499,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Beef Chow Fun",
         "KeyIngredients": [
             "Beef",
@@ -472,10 +515,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Peking Duck",
         "KeyIngredients": [
             "Duck"
@@ -483,17 +527,19 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Fried Shrimp",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Chicken Fried Rice",
         "KeyIngredients": [
             "Chicken"
@@ -502,17 +548,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Sticky Rice",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Salt and Pepper Shrimp",
         "KeyIngredients": [
             "Shrimp"
@@ -521,10 +569,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Chinese",
+        "CuisineType": "Chinese",
         "MenuItem": "Brown Rice",
         "KeyIngredients": [],
         "Nutrients": [
@@ -532,10 +581,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Moussaka",
         "KeyIngredients": [
             "Eggplant",
@@ -549,10 +599,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Greek Salad",
         "KeyIngredients": [
             "Tomatoes",
@@ -562,10 +613,11 @@
             "Vitamin C",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Spanakopita",
         "KeyIngredients": [
             "Spinach"
@@ -577,10 +629,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Gyros",
         "KeyIngredients": [
             "Lamb",
@@ -592,10 +645,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Souvlaki",
         "KeyIngredients": [
             "Chicken",
@@ -605,10 +659,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Horta",
         "KeyIngredients": [
             "Swiss Chard"
@@ -619,10 +674,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Avgolemono Soup",
         "KeyIngredients": [
             "Egg",
@@ -632,10 +688,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Tzatziki",
         "KeyIngredients": [
             "Yogurt"
@@ -646,17 +703,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Dolmades",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Fasolakia",
         "KeyIngredients": [
             "Potatoes",
@@ -667,10 +726,11 @@
             "Magnesium",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Pastitsio",
         "KeyIngredients": [
             "Beef or Lamb"
@@ -679,10 +739,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Keftedes",
         "KeyIngredients": [
             "Beef",
@@ -693,10 +754,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Gemista",
         "KeyIngredients": [
             "Beef",
@@ -709,10 +771,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Soutzoukakia",
         "KeyIngredients": [
             "Beef",
@@ -724,24 +787,27 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Loukoumades",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Calamari",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Kleftiko",
         "KeyIngredients": [
             "Lamb",
@@ -754,10 +820,11 @@
             "Magnesium",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Greek-Style Roasted Potatoes",
         "KeyIngredients": [
             "Potatoes"
@@ -766,10 +833,11 @@
             "Vitamin C",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Fasolia",
         "KeyIngredients": [
             "White Beans",
@@ -784,10 +852,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Melitzanosalata",
         "KeyIngredients": [
             "Eggplant"
@@ -796,17 +865,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Kourabiedes",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Horiatiki",
         "KeyIngredients": [
             "Tomatoes",
@@ -816,10 +887,11 @@
             "Vitamin C",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Grilled Octopus",
         "KeyIngredients": [
             "Octopus"
@@ -828,17 +900,19 @@
             "Vitamin B12",
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Grilled Halloumi Cheese",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Greek-Style Stuffed Eggplant",
         "KeyIngredients": [
             "Eggplant"
@@ -847,10 +921,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Octopus Salad",
         "KeyIngredients": [
             "Octopus"
@@ -859,10 +934,11 @@
             "Vitamin B12",
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Papoutsakia",
         "KeyIngredients": [
             "Eggplant",
@@ -874,10 +950,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Dakos",
         "KeyIngredients": [
             "Tomatoes",
@@ -887,53 +964,59 @@
             "Vitamin C",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Kataifi",
         "KeyIngredients": [
             "(pastry with walnuts in syrup)"
         ],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Greek-Style Rice Pilaf",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Galaktoboureko",
         "KeyIngredients": [
             "(custard)"
         ],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Tirokroketes",
         "KeyIngredients": [
             "(fried cheese balls)"
         ],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Saganaki",
         "KeyIngredients": [
             "(fried cheese)"
         ],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Greek",
+        "CuisineType": "Greek",
         "MenuItem": "Taramosalato",
         "KeyIngredients": [
             "Fish Roe"
@@ -942,10 +1025,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Pho",
         "KeyIngredients": [
             "Beef",
@@ -959,10 +1043,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Bo Hue",
         "KeyIngredients": [
             "Beef",
@@ -974,10 +1059,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Xeo",
         "KeyIngredients": [
             "Pork",
@@ -990,10 +1076,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Cha",
         "KeyIngredients": [
             "Pork",
@@ -1004,10 +1091,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Goi Cuon (Vietnamese Spring Roll)",
         "KeyIngredients": [
             "Pork",
@@ -1022,17 +1110,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Com Tam (Broken Rice)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Mi",
         "KeyIngredients": [
             "Pork",
@@ -1047,10 +1137,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Cuon (Vietnamese Rice Roll)",
         "KeyIngredients": [
             "Pork",
@@ -1064,10 +1155,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Chao (Chicken Porridge)",
         "KeyIngredients": [
             "Chicken"
@@ -1076,10 +1168,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Nem Nuong (Grilled Pork Sausage)",
         "KeyIngredients": [
             "Pork"
@@ -1088,10 +1181,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bo Tai Chanh (Rare Beef in Lime)",
         "KeyIngredients": [
             "Beef",
@@ -1104,10 +1198,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Thit Nuong (Grilled Pork Noodle Salad)",
         "KeyIngredients": [
             "Pork",
@@ -1119,10 +1214,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Canh Chua (Sweet and Sour Soup)",
         "KeyIngredients": [
             "Okra",
@@ -1133,10 +1229,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Tom (Shrimp and Sweet Potato Fritters)",
         "KeyIngredients": [
             "Shrimp",
@@ -1148,17 +1245,19 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Nem Ran (Fried Spring Rolls)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Goi Bo (Spicy Beef Salad)",
         "KeyIngredients": [
             "Beef",
@@ -1172,24 +1271,27 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Mi Xao (Crispy Pan Fried Noodles)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Cha Gio (Fried Spring Rolls)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Rieu (Crab, Pork and Tomato Noodle Soup)",
         "KeyIngredients": [
             "Crab",
@@ -1203,10 +1305,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Thit Heo Quay (Roasted Pork Belly)",
         "KeyIngredients": [
             "Pork"
@@ -1215,10 +1318,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Goi Ga (Chicken and Cabbage Salad)",
         "KeyIngredients": [
             "Chicken",
@@ -1232,10 +1336,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Trang Tron (Rice Paper Salad)",
         "KeyIngredients": [
             "Beef",
@@ -1250,17 +1355,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Hoi (Rice Vermicelli)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Canh Ga Tau (Chicken Wings)",
         "KeyIngredients": [
             "Chicken"
@@ -1269,10 +1376,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Ga Nuong (5 Spice Chicken)",
         "KeyIngredients": [
             "Chicken",
@@ -1282,10 +1390,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Thit Bo Xao (Stir Fried Beef and Green Beans)",
         "KeyIngredients": [
             "Beef"
@@ -1294,17 +1403,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Canh (Thick Tapioca Noodle Soup)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bo La Lot (Beef in Betel Leaves)",
         "KeyIngredients": [
             "Beef"
@@ -1313,10 +1424,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Mang Vit (Duck Noodle Soup)",
         "KeyIngredients": [
             "Duck"
@@ -1324,10 +1436,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Bo Nam Bo (Beef Noodle Salad)",
         "KeyIngredients": [
             "Beef",
@@ -1341,10 +1454,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Bo Xao (Lemongrass Beef and Noodle Salad)",
         "KeyIngredients": [
             "Beef",
@@ -1355,10 +1469,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Ca Kho To (Braised Fish)",
         "KeyIngredients": [
             "Fish"
@@ -1368,10 +1483,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Suon Nuong (Grilled Lemongrass Pork Chops)",
         "KeyIngredients": [
             "Pork"
@@ -1380,17 +1496,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Xoi Gac (Red Sticky Rice)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Bao (Steamed Pork Buns)",
         "KeyIngredients": [
             "Pork"
@@ -1399,10 +1517,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Suon Ram Man (Caramelized Pork Spare Ribs)",
         "KeyIngredients": [
             "Pork"
@@ -1411,10 +1530,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Goi Ngo Sen (Lotus Stem Salad with Prawns)",
         "KeyIngredients": [
             "Shrimp"
@@ -1424,10 +1544,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bo Ne (Steak and Eggs)",
         "KeyIngredients": [
             "Beef",
@@ -1438,10 +1559,11 @@
             "Choline",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Muc Nuong (Grilled Squid)",
         "KeyIngredients": [
             "Octopus"
@@ -1449,17 +1571,19 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Hoi Thap Cam",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Dau Phu (Lemongrass Tofu and Rice Noodles)",
         "KeyIngredients": [
             "Tofu"
@@ -1470,10 +1594,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Dau Mam Tom (Noodle and Tofu with Shrimp Sauce)",
         "KeyIngredients": [
             "Tofu",
@@ -1486,10 +1611,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Chao Ga (Chicken Porridge)",
         "KeyIngredients": [
             "Chicken"
@@ -1498,10 +1624,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Thit Bo Kho (Beef Stew)",
         "KeyIngredients": [
             "Beef"
@@ -1510,17 +1637,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Chao Tom (Sugar Cane Fried Shrimp)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Ga Nuong Xa (Grilled Chicken with Lemongrass)",
         "KeyIngredients": [
             "Chicken"
@@ -1530,10 +1659,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Ca Ri Ga (Chicken Curry)",
         "KeyIngredients": [
             "Chicken",
@@ -1545,10 +1675,11 @@
             "Polyphenols",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Goi Du Du (Green Papaya Salad)",
         "KeyIngredients": [
             "Papaya"
@@ -1558,10 +1689,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Bao Vac (White Rose Dumpling)",
         "KeyIngredients": [
             "Pork",
@@ -1573,10 +1705,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Cuon Thit Heo (Rice Paper Rolls with Pork)",
         "KeyIngredients": [
             "Pork",
@@ -1586,10 +1719,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Cha Ca La Vong (Turmeric Fish with Noodles)",
         "KeyIngredients": [
             "Fish"
@@ -1599,17 +1733,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Com Chien (Fried Rice)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Xa Xiu (5 Spice BBQ Pork)",
         "KeyIngredients": [
             "Pork",
@@ -1619,10 +1755,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Bot Loc (Steamed Dumpling)",
         "KeyIngredients": [
             "Shrimp",
@@ -1633,10 +1770,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Banh Mi Op La (Fried Egg Bahn Mi)",
         "KeyIngredients": [
             "Egg",
@@ -1648,10 +1786,11 @@
             "Polyphenols",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Bun Bo Hue Nam Bo (Beef Noodle Soup)",
         "KeyIngredients": [
             "Beef",
@@ -1661,10 +1800,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Vietnamese",
+        "CuisineType": "Vietnamese",
         "MenuItem": "Brown Rice",
         "KeyIngredients": [],
         "Nutrients": [
@@ -1672,10 +1812,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Ropa Vieja",
         "KeyIngredients": [
             "Beef",
@@ -1687,10 +1828,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Cuban Sandwich",
         "KeyIngredients": [
             "Pork"
@@ -1699,10 +1841,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Lechon Asado (Roast Pork)",
         "KeyIngredients": [
             "Pork"
@@ -1711,10 +1854,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Arroz con Pollo",
         "KeyIngredients": [
             "Chicken"
@@ -1723,17 +1867,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Yuca Frita",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Maduros",
         "KeyIngredients": [
             "Plantains"
@@ -1743,10 +1889,11 @@
             "Magnesium",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Moros y Cristianos",
         "KeyIngredients": [
             "Black Beans"
@@ -1756,17 +1903,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Croquetas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Picadillo",
         "KeyIngredients": [
             "Beef",
@@ -1779,10 +1928,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Bistec de Palomilla (Steak and Onions)",
         "KeyIngredients": [
             "Beef",
@@ -1794,10 +1944,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Ropa Vieja Empanadas",
         "KeyIngredients": [
             "Beef",
@@ -1809,10 +1960,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Pan con Bistec",
         "KeyIngredients": [
             "Beef"
@@ -1821,17 +1973,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Tostones",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Tamales",
         "KeyIngredients": [
             "Corn"
@@ -1841,10 +1995,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Churrasco (Grilled Beef)",
         "KeyIngredients": [
             "Beef"
@@ -1853,10 +2008,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Arroz Imperial",
         "KeyIngredients": [
             "Chicken",
@@ -1868,10 +2024,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Congri (Black Beans and Rice)",
         "KeyIngredients": [
             "Black Beans"
@@ -1881,17 +2038,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Croquettes de Jamon",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Chorizo con Papas",
         "KeyIngredients": [
             "Pork",
@@ -1903,10 +2062,11 @@
             "Magnesium",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Enchilado de Camarones",
         "KeyIngredients": [
             "Shrimp"
@@ -1916,17 +2076,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Churrasco con Tostones",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Empanadas de Carne",
         "KeyIngredients": [
             "Beef"
@@ -1935,24 +2097,27 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Pescado Frito",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Chicharrones",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Boliche (Stuffed Roast Beef)",
         "KeyIngredients": [
             "Beef"
@@ -1961,10 +2126,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Pernil (Puerto Rican Pork Shoulder)",
         "KeyIngredients": [
             "Pork"
@@ -1973,10 +2139,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Ropa Vieja con Tostones",
         "KeyIngredients": [
             "Beef",
@@ -1988,10 +2155,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Rabo Encendido (Oxtail Stew)",
         "KeyIngredients": [
             "Beef"
@@ -2000,52 +2168,59 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Calamares Fritos",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Croquettes de Pollo",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Croquettes de Jamon y Queso",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Pastelitos de Guayaba (Guava and Cheese Pastry)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Empanadas de Queso",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Tostones Rellenos",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Arroz con Pollo y Moros (Chicken and Rice)",
         "KeyIngredients": [
             "Chicken "
@@ -2054,10 +2229,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Costillas de Cerdo (Pork Ribs)",
         "KeyIngredients": [
             "Pork"
@@ -2066,10 +2242,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Platanos Maduros",
         "KeyIngredients": [
             "Plantains"
@@ -2079,10 +2256,11 @@
             "Magnesium",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Vaca Frita (Crispy Shredded Beef)",
         "KeyIngredients": [
             "Beef"
@@ -2091,17 +2269,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Croquettes de Jamon y Pollo",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Tamal en Cazuela (Tamal Casserole)",
         "KeyIngredients": [
             "Pork",
@@ -2111,10 +2291,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Ensalada de Frijoles Negros",
         "KeyIngredients": [
             "Black Beans"
@@ -2124,17 +2305,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Croquettes de Queso",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Enchilado de Pescado",
         "KeyIngredients": [
             "Fish"
@@ -2142,31 +2325,35 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Rabo Encendido con Tostones",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Chicharrones con Tostones",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Empanadas de Jamon y Queso",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Pescado al Horno",
         "KeyIngredients": [
             "Fish"
@@ -2174,17 +2361,19 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Cuban",
+        "CuisineType": "Cuban",
         "MenuItem": "Croquetas de Jamon y Queso",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Steak au poivre",
         "KeyIngredients": [
             "Beef",
@@ -2195,10 +2384,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Ratatouille",
         "KeyIngredients": [
             "Eggplant",
@@ -2209,10 +2399,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Bouillabaisse",
         "KeyIngredients": [
             "Fish",
@@ -2223,19 +2414,21 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Quiche Lorraine",
         "KeyIngredients": [
             "Eggs"
         ],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Boeuf Bourguignon",
         "KeyIngredients": [
             "Beef"
@@ -2244,10 +2437,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Coq au vin",
         "KeyIngredients": [
             "Chicken"
@@ -2256,24 +2450,27 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Escargot",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Croque Monsieur",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "B\u0153uf en croute",
         "KeyIngredients": [
             "Beef"
@@ -2282,10 +2479,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Choucroute garnie",
         "KeyIngredients": [
             "Sauerkraut",
@@ -2298,10 +2496,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Pot-au-feu",
         "KeyIngredients": [
             "Beef",
@@ -2313,10 +2512,11 @@
             "Magnesium",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Cassoulet",
         "KeyIngredients": [
             "White Beans",
@@ -2328,10 +2528,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Duck confit",
         "KeyIngredients": [
             "Duck"
@@ -2339,10 +2540,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Moules-frites",
         "KeyIngredients": [
             "Mussels"
@@ -2350,10 +2552,11 @@
         "Nutrients": [
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Salade Ni\u00e7oise",
         "KeyIngredients": [
             "Tuna",
@@ -2364,17 +2567,19 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Tartiflette",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Soupe \u00e0 l'oignon",
         "KeyIngredients": [
             "Onion"
@@ -2383,10 +2588,11 @@
             "Vitamin C",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Poulet Basquaise",
         "KeyIngredients": [
             "Chicken",
@@ -2398,24 +2604,27 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Rillettes",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Fondue Savoyarde",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Steak tartare",
         "KeyIngredients": [
             "Beef",
@@ -2425,17 +2634,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Poulet \u00e0 la cr\u00e8me",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Blanquette de veau (Veal Stew)",
         "KeyIngredients": [
             "Veal"
@@ -2443,17 +2654,19 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Gratin Dauphinois",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Confit de canard",
         "KeyIngredients": [
             "Duck"
@@ -2461,10 +2674,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Crevettes Proven\u00e7ale",
         "KeyIngredients": [
             "Shrimp",
@@ -2477,10 +2691,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Coquilles Saint-Jacques",
         "KeyIngredients": [
             "Scallop"
@@ -2490,17 +2705,19 @@
             "Omega 3",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "C\u00f4te de boeuf",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Omelette aux fines herbes",
         "KeyIngredients": [
             "Eggs"
@@ -2509,17 +2726,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Pain Perdu",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "P\u00e2t\u00e9 en Cro\u00fbte",
         "KeyIngredients": [
             "Liver"
@@ -2527,10 +2746,11 @@
         "Nutrients": [
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Soupe de poissons (Fish Soup)",
         "KeyIngredients": [
             "Fish"
@@ -2538,10 +2758,11 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Poulet au vin blanc",
         "KeyIngredients": [
             "Chicken"
@@ -2550,17 +2771,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Poulet frites",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Salade lyonnaise",
         "KeyIngredients": [
             "Egg"
@@ -2569,10 +2792,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Choucroute crue",
         "KeyIngredients": [
             "Sauerkraut",
@@ -2585,41 +2809,46 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Foie gras",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Calamars frits",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Soupe \u00e0 l'ail (Garlic Soup)",
         "KeyIngredients": [
             "Garlic",
             "Spices"
         ],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Poulet cordon bleu",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "P\u00e2tes \u00e0 la carbonara",
         "KeyIngredients": [
             "Egg"
@@ -2628,31 +2857,35 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "French",
+        "CuisineType": "French",
         "MenuItem": "Steak frites",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Pizza",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Pasta",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Lasagna",
         "KeyIngredients": [
             "Ricotta",
@@ -2663,17 +2896,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Calzone",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Ravioli",
         "KeyIngredients": [
             "Ricotta"
@@ -2681,10 +2916,11 @@
         "Nutrients": [
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Bruschetta",
         "KeyIngredients": [
             "Tomatoes"
@@ -2693,17 +2929,19 @@
             "Vitamin C",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Fettuccine Alfredo",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Gnocchi",
         "KeyIngredients": [
             "Potato"
@@ -2712,10 +2950,11 @@
             "Vitamin C",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Antipasto",
         "KeyIngredients": [
             "Bibb Lettuce",
@@ -2726,10 +2965,11 @@
             "Magnesium",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Caprese Salad",
         "KeyIngredients": [
             "Tomatoes"
@@ -2738,10 +2978,11 @@
             "Vitamin C",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Stuffed Shells",
         "KeyIngredients": [
             "Ricotta",
@@ -2752,10 +2993,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Eggplant Parmesan",
         "KeyIngredients": [
             "Eggplant",
@@ -2766,10 +3008,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Bolognese",
         "KeyIngredients": [
             "Beef",
@@ -2781,17 +3024,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Risotto",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Osso Buco",
         "KeyIngredients": [
             "Beef"
@@ -2800,10 +3045,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Polenta",
         "KeyIngredients": [
             "Corn"
@@ -2813,10 +3059,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Veal Marsala",
         "KeyIngredients": [
             "Veal",
@@ -2827,10 +3074,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Pesto",
         "KeyIngredients": [
             "Basil",
@@ -2841,52 +3089,59 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Arancini",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Italian Sausage",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Carbonara",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Panini",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Italian",
+        "CuisineType": "Italian",
         "MenuItem": "Cacio e Pepe",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Crispy Pork Belly",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Pad Thai (chicken, shrimp)",
         "KeyIngredients": [
             "Chicken",
@@ -2901,10 +3156,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Tom Yum Soup (chicken, shrimp)",
         "KeyIngredients": [
             "Chicken",
@@ -2917,10 +3173,11 @@
             "Polyphenols",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Green Curry Chicken / Shrimp",
         "KeyIngredients": [
             "Chicken",
@@ -2932,10 +3189,11 @@
             "Choline",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Red Curry Chicken / Shrimp",
         "KeyIngredients": [
             "Chicken",
@@ -2947,10 +3205,11 @@
             "Choline",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Papaya Salad",
         "KeyIngredients": [
             "Papaya",
@@ -2961,10 +3220,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Massaman Curry (chicken, beef, shrimp)",
         "KeyIngredients": [
             "Chicken",
@@ -2980,10 +3240,11 @@
             "Polyphenols",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Mango Sticky Rice",
         "KeyIngredients": [
             "Mango"
@@ -2993,17 +3254,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Thai Fried Rice",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Thai Basil Chicken",
         "KeyIngredients": [
             "Chicken"
@@ -3013,10 +3276,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Chicken Satay",
         "KeyIngredients": [
             "Chicken",
@@ -3030,10 +3294,11 @@
             "Soluble Fiber",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Thai Beef Salad",
         "KeyIngredients": [
             "Beef",
@@ -3044,17 +3309,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Drunken Noodles",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Thai-Style Grilled Chicken",
         "KeyIngredients": [
             "Chicken"
@@ -3063,10 +3330,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Tom Kha Gai (chicken)",
         "KeyIngredients": [
             "Chicken",
@@ -3079,10 +3347,11 @@
             "Soluble Fiber",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Laab (Larb) (chicken)",
         "KeyIngredients": [
             "Chicken",
@@ -3094,10 +3363,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Khao Soi (chicken)",
         "KeyIngredients": [
             "Chicken"
@@ -3108,17 +3378,19 @@
             "Polyphenols",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Crispy Spring Rolls",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Pad See Ew (chicken, beef)",
         "KeyIngredients": [
             "Chicken",
@@ -3128,10 +3400,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Som Tum (Papaya Salad)",
         "KeyIngredients": [
             "Papaya",
@@ -3142,17 +3415,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Fried Tofu",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Panang Curry (chicken, beef)",
         "KeyIngredients": [
             "Chicken",
@@ -3164,10 +3439,11 @@
             "Choline",
             "Higher in Saturated Fat"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Fish Cakes",
         "KeyIngredients": [
             "Fish"
@@ -3175,17 +3451,19 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Khao Pad (Fried Rice)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Yum Woon Sen (shrimp, pork)",
         "KeyIngredients": [
             "Shrimp",
@@ -3198,10 +3476,11 @@
             "Magnesium",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Thai",
+        "CuisineType": "Thai",
         "MenuItem": "Brown Rice",
         "KeyIngredients": [],
         "Nutrients": [
@@ -3209,10 +3488,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Chicken Tikka Masala",
         "KeyIngredients": [
             "Chicken",
@@ -3224,17 +3504,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Naan",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Chana Masala",
         "KeyIngredients": [
             "Chickpeas"
@@ -3245,10 +3527,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Palak Paneer",
         "KeyIngredients": [
             "Spinach",
@@ -3260,17 +3543,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Samosas",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Aloo Gobi",
         "KeyIngredients": [
             "Potatoes",
@@ -3283,10 +3568,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Lamb Vindaloo",
         "KeyIngredients": [
             "Lamb"
@@ -3295,10 +3581,11 @@
             "Vitamin B12",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Saag Paneer",
         "KeyIngredients": [
             "Spinach",
@@ -3310,10 +3597,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Tandoori Chicken",
         "KeyIngredients": [
             "Chicken",
@@ -3325,10 +3613,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Keema Naan",
         "KeyIngredients": [
             "Lamb",
@@ -3340,10 +3629,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Bhindi Masala",
         "KeyIngredients": [
             "Okra"
@@ -3352,10 +3642,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Korma (chicken)",
         "KeyIngredients": [
             "Chicken",
@@ -3367,10 +3658,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Biryani",
         "KeyIngredients": [
             "Chicken",
@@ -3382,17 +3674,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Chole Bhature",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Paneer Tikka",
         "KeyIngredients": [
             "Cheese",
@@ -3402,10 +3696,11 @@
             "Magnesium",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Masala Dosa",
         "KeyIngredients": [
             "Lentil",
@@ -3418,17 +3713,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Poori",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Paneer Curry",
         "KeyIngredients": [
             "Cheese"
@@ -3436,31 +3733,35 @@
         "Nutrients": [
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Gulab Jamun",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Dahi Puri",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Pani Puri",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Tikki Chaat",
         "KeyIngredients": [
             "Potatoes",
@@ -3473,17 +3774,19 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Pani Poori",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Indian",
+        "CuisineType": "Indian",
         "MenuItem": "Vegetable Biryani",
         "KeyIngredients": [
             "Yogurt"
@@ -3494,10 +3797,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Sushi",
         "KeyIngredients": [
             "Fish"
@@ -3505,10 +3809,11 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Sashimi",
         "KeyIngredients": [
             "Fish"
@@ -3516,17 +3821,19 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Ramen",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Udon",
         "KeyIngredients": [
             "Buckwheat"
@@ -3535,17 +3842,19 @@
             "Magnesium",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Tempura",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Teriyaki (beef, chicken)",
         "KeyIngredients": [
             "Beef",
@@ -3555,10 +3864,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Yakitori (chicken)",
         "KeyIngredients": [
             "Chicken"
@@ -3567,10 +3877,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Soba",
         "KeyIngredients": [
             "Buckwheat"
@@ -3579,10 +3890,11 @@
             "Magnesium",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Gyoza",
         "KeyIngredients": [
             "Chicken",
@@ -3597,17 +3909,19 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Tonkatsu",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Miso Soup",
         "KeyIngredients": [
             "Miso",
@@ -3619,10 +3933,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Donburi (beef, chicken, fish)",
         "KeyIngredients": [
             "Beef",
@@ -3634,10 +3949,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Takoyaki",
         "KeyIngredients": [
             "Octopus"
@@ -3645,10 +3961,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Yakisoba",
         "KeyIngredients": [
             "Buckwheat"
@@ -3657,24 +3974,27 @@
             "Magnesium",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Karaage",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Curry Rice",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Okonomiyaki",
         "KeyIngredients": [
             "Cabbage",
@@ -3688,10 +4008,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Gyudon (beef)",
         "KeyIngredients": [
             "Beef"
@@ -3700,24 +4021,27 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Katsu Curry",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Onigiri",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Nabemono (chicken, beef, fish, tofu)",
         "KeyIngredients": [
             "Chicken",
@@ -3731,17 +4055,19 @@
             "Magnesium",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Sunomono (cucumber salad)",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Chirashi (seafood)",
         "KeyIngredients": [
             "Fish"
@@ -3749,10 +4075,11 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Chankonabe",
         "KeyIngredients": [
             "Udon",
@@ -3765,10 +4092,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Unagi",
         "KeyIngredients": [
             "Eel"
@@ -3776,10 +4104,11 @@
         "Nutrients": [
             "Omega 3"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Japanese",
+        "CuisineType": "Japanese",
         "MenuItem": "Brown Rice",
         "KeyIngredients": [],
         "Nutrients": [
@@ -3787,10 +4116,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Bibimbap (beef)",
         "KeyIngredients": [
             "Beef",
@@ -3804,10 +4134,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Bulgogi",
         "KeyIngredients": [
             "Beef"
@@ -3816,10 +4147,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Korean Barbecue (beef, chicken, pork)",
         "KeyIngredients": [
             "Beef",
@@ -3830,10 +4162,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Kimchi",
         "KeyIngredients": [
             "Cabbage"
@@ -3844,10 +4177,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Japchae",
         "KeyIngredients": [
             "Sweet Potato"
@@ -3856,24 +4190,27 @@
             "Vitamin C",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Korean Fried Chicken",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Tteokbokki",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Haemul Pajeon (Seafood Scallion Pancake)",
         "KeyIngredients": [
             "Eggs",
@@ -3885,10 +4222,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Kalbi (beef)",
         "KeyIngredients": [
             "Beef"
@@ -3897,10 +4235,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Mandu\u00a0(steamed)",
         "KeyIngredients": [
             "Pork",
@@ -3912,10 +4251,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Yukgaejang (beef)",
         "KeyIngredients": [
             "Beef"
@@ -3924,10 +4264,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Jjajangmyeon (black bean)",
         "KeyIngredients": [
             "Black Beans"
@@ -3937,10 +4278,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Samgyeopsal (pork)",
         "KeyIngredients": [
             "Pork"
@@ -3949,10 +4291,11 @@
             "Vitamin B12",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Jjimdak (chicken)",
         "KeyIngredients": [
             "Chicken"
@@ -3961,10 +4304,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Kongguksu (soybean)",
         "KeyIngredients": [
             "Soybean"
@@ -3975,10 +4319,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Sundubu Jjigae (tofu stew)",
         "KeyIngredients": [
             "Tofu"
@@ -3989,10 +4334,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Gamjatang",
         "KeyIngredients": [
             "Pork",
@@ -4004,10 +4350,11 @@
             "Magnesium",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Soondubu Jjigae",
         "KeyIngredients": [
             "Tofu"
@@ -4018,10 +4365,11 @@
             "Choline",
             "Polyphenols"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Doenjang Jjigae",
         "KeyIngredients": [
             "Soybean"
@@ -4032,10 +4380,11 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Gyeran Mari (eggs)",
         "KeyIngredients": [
             "Eggs"
@@ -4044,10 +4393,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Seafood Pancake",
         "KeyIngredients": [
             "Seafood"
@@ -4057,10 +4407,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Tofu Soup",
         "KeyIngredients": [
             "Tofu"
@@ -4070,10 +4421,11 @@
             "Magnesium",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Bossam (pork)",
         "KeyIngredients": [
             "Pork"
@@ -4081,10 +4433,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Mul Naengmyeon\u00a0",
         "KeyIngredients": [
             "Buckwheat"
@@ -4093,10 +4446,11 @@
             "Magnesium",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Gnocchi Japchae",
         "KeyIngredients": [
             "Sweet Potato"
@@ -4105,10 +4459,11 @@
             "Vitamin C",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "Korean",
+        "CuisineType": "Korean",
         "MenuItem": "Brown Rice",
         "KeyIngredients": [],
         "Nutrients": [
@@ -4116,10 +4471,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Hamburgers",
         "KeyIngredients": [
             "Beef"
@@ -4128,24 +4484,27 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Hot Dogs",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Pizza",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "BBQ Ribs",
         "KeyIngredients": [
             "Pork"
@@ -4153,17 +4512,19 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "French Fries",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Chicken Wings",
         "KeyIngredients": [
             "Chicken"
@@ -4172,10 +4533,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Steak",
         "KeyIngredients": [
             "Beef"
@@ -4184,10 +4546,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Tacos",
         "KeyIngredients": [
             "Shrimp",
@@ -4199,24 +4562,27 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Grilled Cheese",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Macaroni and Cheese",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Chili",
         "KeyIngredients": [
             "Beef",
@@ -4230,24 +4596,27 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Fried Chicken",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Buffalo Wings",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Meatloaf",
         "KeyIngredients": [
             "Beef"
@@ -4256,10 +4625,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Mashed Potatoes",
         "KeyIngredients": [
             "Potatoes"
@@ -4268,24 +4638,27 @@
             "Vitamin C",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Fried Shrimp",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "BLT Sandwich",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Reuben Sandwich",
         "KeyIngredients": [
             "Beef",
@@ -4299,24 +4672,27 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Chicken Tenders",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "BLT Salad",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Cobb Salad (no dressing)",
         "KeyIngredients": [
             "Chicken",
@@ -4326,10 +4702,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Caesar Salad",
         "KeyIngredients": [
             "Parmesan",
@@ -4339,10 +4716,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Potato Skins",
         "KeyIngredients": [
             "Potatoes"
@@ -4351,17 +4729,19 @@
             "Vitamin C",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "American",
+        "CuisineType": "American",
         "MenuItem": "Onion Rings",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Ribs",
         "KeyIngredients": [
             "Pork"
@@ -4369,10 +4749,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Chicken",
         "KeyIngredients": [
             "Chicken"
@@ -4381,10 +4762,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Pulled Pork",
         "KeyIngredients": [
             "Pork"
@@ -4392,10 +4774,11 @@
         "Nutrients": [
             "Vitamin B12"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Brisket",
         "KeyIngredients": [
             "Beef"
@@ -4404,17 +4787,19 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Smoked Sausage",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Cornbread",
         "KeyIngredients": [
             "Corn"
@@ -4424,10 +4809,11 @@
             "Choline",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Potato Salad",
         "KeyIngredients": [
             "Potato"
@@ -4436,10 +4822,11 @@
             "Vitamin C",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Coleslaw",
         "KeyIngredients": [
             "Cabbage"
@@ -4450,31 +4837,35 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Macaroni and Cheese",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Fried Okra",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Nachos",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Baked Beans",
         "KeyIngredients": [],
         "Nutrients": [
@@ -4483,31 +4874,35 @@
             "Polyphenols",
             "Soluble Fiber"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Wings",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Pizza",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Sandwiches",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Tacos",
         "KeyIngredients": [
             "Chicken",
@@ -4517,45 +4912,51 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Burritos",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Fries",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Boiled Peanuts",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Onion Rings",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Cucumber Salad",
         "KeyIngredients": [],
         "Nutrients": [],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Burgers",
         "KeyIngredients": [
             "Beef"
@@ -4564,10 +4965,11 @@
             "Vitamin B12",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Shrimp",
         "KeyIngredients": [
             "Shrimp"
@@ -4576,10 +4978,11 @@
             "Omega 3",
             "Choline"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": true
     },
     {
-        "CuisinType": "BBQ",
+        "CuisineType": "BBQ",
         "MenuItem": "Barbecue Potato Skins",
         "KeyIngredients": [
             "Potato"
@@ -4588,6 +4991,7 @@
             "Vitamin C",
             "Magnesium"
         ],
-        "ImageURL": ""
+        "ImageURL": "",
+        "Recommended": false
     }
 ]
